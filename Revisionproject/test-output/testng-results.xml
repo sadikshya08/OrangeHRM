@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T13:42:14 NPT" name="Default suite" finished-at="2023-06-01T13:42:25 NPT" duration-ms="10434">
+    <groups>
+    </groups>
+    <test started-at="2023-06-01T13:42:14 NPT" name="Default test" finished-at="2023-06-01T13:42:25 NPT" duration-ms="10434">
+      <class name="Assessment1.OrangeHRM">
+        <test-method is-config="true" signature="brow()[pri:0, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:41:59 NPT" name="brow" finished-at="2023-06-01T13:42:14 NPT" duration-ms="14635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brow -->
+        <test-method signature="my_info()[pri:1, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:42:14 NPT" name="my_info" finished-at="2023-06-01T13:42:19 NPT" duration-ms="4566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- my_info -->
+        <test-method signature="nationality()[pri:2, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:42:19 NPT" name="nationality" finished-at="2023-06-01T13:42:19 NPT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nationality -->
+        <test-method signature="marriage_status()[pri:3, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:42:19 NPT" name="marriage_status" finished-at="2023-06-01T13:42:19 NPT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marriage_status -->
+        <test-method signature="info_continued()[pri:4, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:42:19 NPT" name="info_continued" finished-at="2023-06-01T13:42:20 NPT" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- info_continued -->
+        <test-method signature="bloodType()[pri:5, instance:Assessment1.OrangeHRM@123ef382]" started-at="2023-06-01T13:42:20 NPT" name="bloodType" finished-at="2023-06-01T13:42:25 NPT" duration-ms="4680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bloodType -->
+      </class> <!-- Assessment1.OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
