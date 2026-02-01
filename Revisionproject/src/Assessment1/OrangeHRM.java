@@ -88,4 +88,10 @@ public class OrangeHRM extends Basic_Setup
 			driver.findElement(By.xpath("//body/div[@id='app']/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/button[1]")).click();
 			
 		}
+		@Test
+
+		public void printName()
+		{
+			System.out.println("Sadi");
+		}
 }
